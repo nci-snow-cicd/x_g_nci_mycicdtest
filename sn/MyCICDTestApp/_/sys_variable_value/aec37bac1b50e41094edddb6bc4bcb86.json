@@ -1,0 +1,14 @@
+{
+  "document": "sys_atf_step",
+  "document_key": "acc3bf601b90e41094edddb6bc4bcbf8",
+  "order": 50,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-11-02 20:38:34",
+  "sys_id": "aec37bac1b50e41094edddb6bc4bcb86",
+  "sys_mod_count": 0,
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-11-02 20:38:34",
+  "value": "standard_ui",
+  "variable": "6f2a59a4e7133300b5646ea8c2f6a975"
+}

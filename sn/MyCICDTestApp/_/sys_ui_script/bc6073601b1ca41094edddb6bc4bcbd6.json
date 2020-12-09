@@ -1,0 +1,24 @@
+{
+  "active": true,
+  "description": null,
+  "global": false,
+  "name": "x_g_nci_mycicdtest.UI_SCRIPT_TEST",
+  "script": {
+    "____see": "sn\\MyCICDTestApp\\UI Script\\active_true\\global_false\\x_g_nci_mycicdtest.UI_SCRIPT_TEST.js"
+  },
+  "script_name": "UI_SCRIPT_TEST",
+  "sys_class_name": "sys_ui_script",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-11-02 20:24:02",
+  "sys_id": "bc6073601b1ca41094edddb6bc4bcbd6",
+  "sys_mod_count": 1,
+  "sys_name": "x_g_nci_mycicdtest.UI_SCRIPT_TEST",
+  "sys_package": "bfb3a72c1b94641094edddb6bc4bcb2a",
+  "sys_policy": null,
+  "sys_scope": "bfb3a72c1b94641094edddb6bc4bcb2a",
+  "sys_update_name": "sys_ui_script_bc6073601b1ca41094edddb6bc4bcbd6",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-11-02 20:24:33",
+  "ui_type": 0,
+  "use_scoped_format": false
+}

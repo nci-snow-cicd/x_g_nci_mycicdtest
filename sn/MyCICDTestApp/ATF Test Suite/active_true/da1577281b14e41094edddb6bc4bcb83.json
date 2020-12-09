@@ -1,0 +1,19 @@
+{
+  "active": true,
+  "description": null,
+  "input_filter": "sys_scope=bfb3a72c1b94641094edddb6bc4bcb2a^EQ",
+  "name": "MyCICDTestApp Test Suite",
+  "parent": null,
+  "sys_class_name": "sys_atf_test_suite",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-11-02 20:44:46",
+  "sys_id": "da1577281b14e41094edddb6bc4bcb83",
+  "sys_mod_count": 1,
+  "sys_name": "MyCICDTestApp Test Suite",
+  "sys_package": "bfb3a72c1b94641094edddb6bc4bcb2a",
+  "sys_policy": null,
+  "sys_scope": "bfb3a72c1b94641094edddb6bc4bcb2a",
+  "sys_update_name": "sys_atf_test_suite_da1577281b14e41094edddb6bc4bcb83",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-11-02 20:45:48"
+}

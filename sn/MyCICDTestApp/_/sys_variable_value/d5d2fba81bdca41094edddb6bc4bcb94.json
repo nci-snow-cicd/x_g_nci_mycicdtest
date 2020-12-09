@@ -1,0 +1,14 @@
+{
+  "document": "sys_atf_step",
+  "document_key": "7a92332c1bdca41094edddb6bc4bcb9a",
+  "order": 100,
+  "sys_class_name": "sys_variable_value",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-11-02 20:34:23",
+  "sys_id": "d5d2fba81bdca41094edddb6bc4bcb94",
+  "sys_mod_count": 0,
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-11-02 20:34:23",
+  "value": "short_description=This is an automated test - First Run^assignment_group=59fb68a16f416200250e6bbeae3ee40f^urgency=1^EQ",
+  "variable": "b3dba2465320220002c6435723dc34f0"
+}

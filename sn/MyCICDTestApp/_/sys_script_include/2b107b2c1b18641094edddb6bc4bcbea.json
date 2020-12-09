@@ -1,0 +1,24 @@
+{
+  "access": "package_private",
+  "active": true,
+  "api_name": "x_g_nci_mycicdtest.Test_Script_Include_Demo",
+  "caller_access": null,
+  "client_callable": false,
+  "description": null,
+  "name": "Test_Script_Include_Demo",
+  "script": {
+    "____see": "sn\\MyCICDTestApp\\Script Include\\active_true\\x_g_nci_mycicdtest.Test_Script_Include_Demo.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-11-02 20:22:50",
+  "sys_id": "2b107b2c1b18641094edddb6bc4bcbea",
+  "sys_mod_count": 1,
+  "sys_name": "Test_Script_Include_Demo",
+  "sys_package": "bfb3a72c1b94641094edddb6bc4bcb2a",
+  "sys_policy": "read",
+  "sys_scope": "bfb3a72c1b94641094edddb6bc4bcb2a",
+  "sys_update_name": "sys_script_include_2b107b2c1b18641094edddb6bc4bcbea",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-11-02 20:22:56"
+}

@@ -1,0 +1,23 @@
+{
+  "is_fulfillment": false,
+  "license_condition": null,
+  "license_model": "none",
+  "license_roles": null,
+  "name": "x_g_nci_mycicdtest_mycicdtestapp_table",
+  "op_delete": true,
+  "op_insert": true,
+  "op_update": true,
+  "owner_condition": null,
+  "sys_class_name": "ua_table_licensing_config",
+  "sys_created_by": "rizknt@nih.gov",
+  "sys_created_on": "2020-11-02 19:28:30",
+  "sys_id": "9cc3ebe81b18641094edddb6bc4bcb90",
+  "sys_mod_count": 0,
+  "sys_name": "x_g_nci_mycicdtest_mycicdtestapp_table",
+  "sys_package": "bfb3a72c1b94641094edddb6bc4bcb2a",
+  "sys_policy": null,
+  "sys_scope": "bfb3a72c1b94641094edddb6bc4bcb2a",
+  "sys_update_name": "ua_table_licensing_config_9cc3ebe81b18641094edddb6bc4bcb90",
+  "sys_updated_by": "rizknt@nih.gov",
+  "sys_updated_on": "2020-11-02 19:28:30"
+}
